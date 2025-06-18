@@ -1,6 +1,6 @@
 # 📊 Linear & Logistic Regression Projects
 
-Welcome to my repository showcasing foundational implementations of two essential supervised learning algorithms: **Linear Regression** and **Logistic Regression**. These projects are part of my journey in developing a strong grasp of core machine learning concepts.
+Welcome to my repository! Here, you'll find simple, hands-on implementations of two fundamental supervised learning algorithms: Linear Regression and Logistic Regression. These projects reflect my learning journey as I build a solid understanding of core machine learning principles, one step at a time.
 
 ## 🧠 Projects Included
 
